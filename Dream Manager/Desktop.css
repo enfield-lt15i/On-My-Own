@@ -3,6 +3,7 @@
 body {
     height: 100px;
 }
+
 .container {
     background-image: url(Assets/Wallpaper.jpg);
     background-size: cover;
